@@ -1,0 +1,10 @@
+1 fibonic series
+2 prime no
+3 even odd
+4 sorting 
+5 reverse string 
+6 armstrong
+7 pelitron
+8 factorial 
+9 pattern 
+10 min max array
